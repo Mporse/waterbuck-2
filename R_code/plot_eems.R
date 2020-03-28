@@ -4,7 +4,7 @@ library("rgdal")
 library("rworldmap")
 library("rworldxtra")
 
-# Define system path to data.
+# Define system path to folder with data files (mcmcpath) and output folder (plotpath).
 mcmcpath = ""
 plotpath = ""
 
